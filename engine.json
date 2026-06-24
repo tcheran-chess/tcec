@@ -11,7 +11,7 @@
             },
             {
                 "name": "Hash",
-                "value": "65536"
+                "value": "262144"
             },
             {
                 "name": "MoveOverhead",
